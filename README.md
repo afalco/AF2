@@ -8,4 +8,3 @@ Este repositorio contiene **exclusivamente** el material en **LaTeX/Beamer** de 
 - **Sesión 2** — Publicaciones, calidad y métricas responsables (Beamer)
 - **Sesión 3** — Identidad digital, ciencia abierta y repositorios (Beamer)
 - **Sesión 4** — Proyectos, liderazgo, transferencia e innovación (Beamer)
-- **Rúbrica + checklist + plantillas** (LaTeX artículo)
